@@ -1,0 +1,13 @@
+{
+  "name": "pulumi-docker-windows-repro",
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "@pulumi/docker": "5.2.1",
+    "@pulumi/pulumi": "^3.200.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}
